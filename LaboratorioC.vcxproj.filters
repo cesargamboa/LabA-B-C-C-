@@ -24,6 +24,9 @@
     <ClCompile Include="CalcularDistancia.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Segmentos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoordenadasXY.h">
@@ -31,6 +34,9 @@
     </ClInclude>
     <ClInclude Include="CalcularDistancia.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Segmentos.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

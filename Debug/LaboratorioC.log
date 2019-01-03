@@ -1,4 +1,8 @@
-﻿  CalcularDistancia.cpp
-  main.cpp
+﻿  main.cpp
+c:\users\ff_cesar\source\repos\laboratorioc\laboratorioc\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Segmentos.cpp
+c:\users\ff_cesar\source\repos\laboratorioc\laboratorioc\segmentos.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ff_cesar\source\repos\laboratorioc\laboratorioc\segmentos.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ff_cesar\source\repos\laboratorioc\laboratorioc\segmentos.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating Code...
   LaboratorioC.vcxproj -> C:\Users\FF_Cesar\source\repos\LaboratorioC\Debug\LaboratorioC.exe
