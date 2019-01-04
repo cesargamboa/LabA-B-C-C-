@@ -121,11 +121,13 @@
     <ClCompile Include="CalcularDistancia.cpp" />
     <ClCompile Include="CoordenadasXY.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Recta.cpp" />
     <ClCompile Include="Segmentos.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CalcularDistancia.h" />
     <ClInclude Include="CoordenadasXY.h" />
+    <ClInclude Include="Recta.h" />
     <ClInclude Include="Segmentos.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

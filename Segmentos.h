@@ -5,6 +5,7 @@ private:
 	CoordenadasXY puntoA;
 	CoordenadasXY puntoB;
 public: 
+	Segmentos();
 	Segmentos(CoordenadasXY pt0, CoordenadasXY pt1);
 	CoordenadasXY puntoMedio(CoordenadasXY, CoordenadasXY);
 	CoordenadasXY getPuntoA();

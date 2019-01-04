@@ -17,3 +17,4 @@ CoordenadasXY Segmentos::getPuntoA() {
 CoordenadasXY Segmentos::getPuntoB() {
 	return puntoB;
 }
+Segmentos::Segmentos(){}
