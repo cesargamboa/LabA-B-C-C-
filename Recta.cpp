@@ -19,7 +19,7 @@ Segmentos Recta::crearRectaConMyB() {
 	CoordenadasXY punto(0, 0);
 	CoordenadasXY punto2(x, y);
 	std::cout << "La ecuacion de la recta es: " << "y = " << m << "x +" << b << std::endl;
-	std::cout << "Los valores obtenidos de x y y, son: " << x << y << ", respectivamente" << std::endl;
+	std::cout << "Los valores obtenidos de x y y, son: (" << x <<", "<< y << "), respectivamente" << std::endl;
 
 	return Segmentos(punto, punto2);
 }
